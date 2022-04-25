@@ -1,0 +1,8 @@
+{
+  "name": "01.node",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.3",
+    "math": "^0.0.3"
+  }
+}
